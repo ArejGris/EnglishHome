@@ -159,4 +159,10 @@ section{
 
 }
 
+@media only screen and (max-width:700px){
+    li{
+        margin: .3rem;
+    }
+    
+}
 </style>

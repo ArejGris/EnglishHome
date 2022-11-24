@@ -71,4 +71,15 @@ a:hover,button:hover{
     margin-right: .4rem;
   }
 }
+
+@media only screen and (max-width:700px){
+  button{
+    padding: .3rem 1rem;
+    margin-right: .4rem;
+  }
+  li button{
+    padding: .3rem 1rem;
+    margin-right: .4rem;
+  }
+}
 </style>

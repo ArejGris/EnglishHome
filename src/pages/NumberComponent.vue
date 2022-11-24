@@ -100,5 +100,13 @@ transition: all 1s ease-out;
 opacity: 1;
 transform: translateY(1);
 }
-
+@media only screen and (max-width:600px) {
+    section{
+        margin: 1rem;
+        padding: .7rem;
+    }
+    .oper{
+        margin:.5rem;
+    }
+}
 </style>

@@ -13,4 +13,9 @@
 
 }
 
+@media only screen and(max-width:700px){
+    .card{
+max-width: 15rem;
+    }
+}
 </style>

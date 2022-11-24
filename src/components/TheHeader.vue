@@ -114,5 +114,13 @@ li.dropdown{
 .dropdown:hover .dropdown-content{
     display: block;
 }
-
+@media only screen and (max-width:700px) {
+    li{
+        padding: .2rem;
+    }
+    ul{
+        margin-right: .5rem;
+    }
+    
+}
 </style>
