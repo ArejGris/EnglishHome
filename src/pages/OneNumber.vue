@@ -86,14 +86,5 @@ label{
     background-color:gray;
     border-color:gray
 }
-@media only screen and (max-width:700px){
-    .container{
-        max-width: 2rem;
-        max-height: 2rem;
-        padding:.5rem;
-    }
-    li{
-        margin-right: .5rem;
-    }
-}
+
 </style>

@@ -21,9 +21,5 @@ button,a{
 a:hover,button:hover{
     background-color: rgb(222, 204, 240);
 }
-@media only screen and (max-width:700px) {
-    button{
-        padding: .3rem;
-    }
-}
+
 </style>

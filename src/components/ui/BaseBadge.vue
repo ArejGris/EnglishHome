@@ -44,10 +44,5 @@ isTrue(){
   background-color: #e01212;
   color: white;
 }
-@media only screen and (max-width:700px){
-    .badge{
-       padding:.3rem 1rem;
-       margin-right: .3;
-    }
-}
+
 </style>

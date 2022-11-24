@@ -103,9 +103,5 @@ color: rgb(240, 34, 34);
         opacity: 1;
     }
 }
-@media only screen and (max-width:700px){
-    .container{
-        max-width: 4rem;
-    }
-}
+
 </style>
